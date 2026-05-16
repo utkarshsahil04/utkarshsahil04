@@ -36,7 +36,7 @@ That's the problem I'm solving.
 - 🇮🇳 **India Innovates 2026** — Bharat Mandapam, New Delhi · DDU College (University of Delhi)
 - 📊 **Kaggle** — 2 Datasets published · 1 went **#3 Trending** (26 upvotes, worldwide contributors) 
 - 🏆**Kaggle Competition** - Ranked **1371 / 4317** in competition
-- 🎮 **Open Source Contributor** @ [Espotz](https://github.com/espotz) — Real esports platform
+- 🎮 **Open Source Contributor** @ [eSpotz-live](https://github.com/eSpotz-live) — Real esports platform
 - 📍 Greater Noida, India
 
 ---
