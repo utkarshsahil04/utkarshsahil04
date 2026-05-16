@@ -161,7 +161,7 @@ The flip side of the NPC problem: detect fake intelligence here, create real-see
 
 ## 🌍 Open Source · Espotz
 
-Contributing to **[Espotz](https://github.com/espotz)** — a live esports tournament platform. Real codebase, real users, real PRs. Where gaming culture meets real engineering.
+Contributing to **[espotz.live](https://github.com/eSpotz-live)** — a live esports tournament platform. Real codebase, real users, real PRs. Where gaming culture meets real engineering.
 
 ---
 
