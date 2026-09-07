@@ -1,44 +1,131 @@
 <div align="center">
 
 ```
- ██████╗  █████╗ ███╗   ███╗███████╗     █████╗ ██╗
-██╔════╝ ██╔══██╗████╗ ████║██╔════╝    ██╔══██╗██║
-██║  ███╗███████║██╔████╔██║█████╗      ███████║██║
-██║   ██║██╔══██║██║╚██╔╝██║██╔══╝      ██╔══██║██║
-╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗    ██║  ██║██║
- ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝
+████████╗██╗  ██╗███████╗███╗   ███╗██╗     ██████╗  ██████╗  ██████╗ ██╗  ██╗██╗███████╗
+╚══██╔══╝██║  ██║██╔════╝████╗ ████║██║     ██╔══██╗██╔═══██╗██╔═══██╗██║ ██╔╝██║██╔════╝
+   ██║   ███████║█████╗  ██╔████╔██║██║     ██████╔╝██║   ██║██║   ██║█████╔╝ ██║█████╗  
+   ██║   ██╔══██║██╔══╝  ██║╚██╔╝██║██║     ██╔══██╗██║   ██║██║   ██║██╔═██╗ ██║██╔══╝  
+   ██║   ██║  ██║███████╗██║ ╚═╝ ██║███████╗██║  ██║╚██████╔╝╚██████╔╝██║  ██╗██║███████╗
+   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝
 ```
 
-### `Game AI Engineer` · `NPC Brain Architect` · `ML Researcher`
-#### *Building NPCs that think, adapt, and feel alive.*
+### `Full-Stack Engineer` · `ML Engineer` · `Data Analyst`
+#### *Frontend, backend, design, ML, data scraping, data analysis — end to end.*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=00FF88&center=true&vCenter=true&width=750&lines=NPCs+with+real+brains+%E2%80%94+not+scripts;Reinforcement+Learning+%7C+Behavior+Trees+%7C+LLM+Dialogue;IBM+ICE+Day+2026+%F0%9F%A5%87+1st+Prize+Winner;Hack+IITK+Semi-Finalist+%7C+IIT+Kanpur+Cybersecurity;Kaggle+Dataset+%231+Trending+%7C+26+Upvotes+Worldwide;IILM+University+CSE+%7C+Batch+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=00FF88&center=true&vCenter=true&width=750&lines=Full-Stack+%7C+ML+%7C+Data+Engineering;React+%7C+Node.js+%7C+Python+%7C+FastAPI;IBM+ICE+Day+2026+%F0%9F%A5%87+1st+Prize+Winner;Hack+IITK+Semi-Finalist+%7C+IIT+Kanpur+Cybersecurity;Kaggle+Dataset+%231+Trending+%7C+26+Upvotes+Worldwide;IILM+University+CSE+%7C+Batch+2024+-+2028)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 The Vision
+## 🧠 About Me
 
-> *"Every NPC in every game runs a script. I want to build the ones that don't."*
+I'm **Utkarsh Verma** — a 2nd-year CSE student at **IILM University, Greater Noida**, working as a **Full-Stack Engineer**. I don't stay in one lane: frontend, backend, UI/UX design, ML engineering, data scraping, and data analysis all fall under what I ship.
 
-I'm **Utkarsh Verma** — a 2nd-year CSE student at **IILM University, Greater Noida**, on a path to become a **Game AI Engineer**. My goal is giving virtual entities their own cognitive architecture — perception, memory, decision-making, emotion, and goal-driven behavior.
+I've shipped production frontend, built backend pipelines, trained ML models, scraped and cleaned real-world data, and turned all of it into working products — end to end, not just in theory.
 
-Think GTA 6 pedestrians that remember you. Think NPCs that evolve their tactics mid-fight. Think enemies that aren't reading a hardcoded behavior tree from 2019.
+📍 Greater Noida, India
 
-That's the problem I'm solving.
+---
 
-- 🥇 **IBM ICE Day 2026** — 1st Prize Winner (Presentation)
-- 🥉 **IBM ICE Day 2025** — 3rd Prize (Poster Making)
-- 🏆 **Hack IITK Semi-Finalist** — IIT Kanpur · Cybersecurity track
-- 🏫 **IIIT Delhi Fork-It** — Hackathon Participant
-- 🏁 **Hack o'Clock Grand Finalist** — IILM University
-- 🇮🇳 **India Innovates 2026** — Bharat Mandapam, New Delhi · DDU College (University of Delhi)
-- 🚀 **Smart India Hackathon (SIH) 2026** — Selected, Top 50/400 college teams · IILM University · Project: ArtistGali
-- 📊 **Kaggle** — 2 Datasets published · 1 went **#3 Trending** (26 upvotes, worldwide contributors) 
-- 🏆**Kaggle Competition** - Ranked **1371 / 4317** in competition
-- 🎮 **Open Source Contributor** @ [eSpotz-live](https://github.com/eSpotz-live) — Real esports platform
-- 📍 Greater Noida, India
+## 💼 Experience
+
+**Software Engineer Intern** · Espotz — *esports tournament platform (Valorant)*
+- Built an automated GFX generation pipeline for tournaments — standings tables, match-result cards, playoff bracket trees (React → PNG rendering)
+- Built an onboarding tour system from scratch — i18n support, auto-triggers on new player login, **live in production**
+- Wrote test cases for core product features to catch regressions before release
+- Contributed to app development on the React Native mobile app
+
+---
+
+## 🛠️ Tech Arsenal
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ML / Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+### Cloud / Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 🏘️ [NeighborShare](https://github.com/utkarshsahil04/Neighbourland_resource_generator)
+> Hyperlocal item-borrowing app for neighborhoods
+
+Discover and borrow tools and everyday items within a 2km radius, list what you can lend, and manage borrow requests — with magic-link auth and an interactive map showing nearby items.
+
+`Next.js 14` `React 18` `Supabase` `Mapbox GL JS` `Tailwind CSS` `shadcn/ui`
+
+---
+
+### 🌾 [Agriculture Data Scraper](https://github.com/utkarshsahil04/Agriculture_data_scrap)
+> Automated data collection pipeline built with Playwright
+
+Scraped ~1,000 fertilizer/agriculture supplier listings from IndiaMART, extracting phone number, email, location, business type, stage, and city name into structured data.
+
+`Python` `Playwright` `Web Scraping` `Data Extraction`
+
+---
+
+### 💬 [Espotz Chat UI — POC](https://github.com/utkarshsahil04/webchat)
+> Tournament chat UX proof of concept
+
+Working UI demo (mock data) validating layout and chat flows before wiring the real Espotz backend: hierarchical chat navigator (tournament → stages → match days → matches), active-channel breadcrumb, connected-players bar, and a mobile navigator drawer.
+
+`React 19` `TypeScript` `Vite` `Tailwind CSS` `React Router`
+
+---
+
+### 🎨 [ArtistGali](https://artist-gali.netlify.app/) — *Live Demo*
+> Voice-first AI marketplace for traditional artisans · Smart India Hackathon 2026 (Top 50/400 teams)
+
+Lets artisans list handcrafted products through natural voice conversation instead of forms — AI transcribes their story, suggests pricing, and publishes to a swipe-discovery marketplace for buyers.
+
+`Next.js` `TypeScript` `AWS Bedrock` `AWS Polly/Transcribe` `Voice AI`
+
+---
+
+### 🤖 [Machine Learning · CampusX Journey](https://github.com/utkarshsahil04/Machine_learning_campusX_code)
+> The mathematical bedrock behind every ML system I build
+
+Every major ML algorithm implemented by hand — not copy-pasted, not skimmed.
+
+`Regression` `Trees` `SVM` `Clustering` `PCA` `Ensembles`
+**Progress: Lecture 115 / 134** `█████████████████░░░` 86%
+
+---
+
+### ⚡ [FlagBolt](https://github.com/utkarshsahil04/FlagBolt)
+> TypeScript/Next.js — 41 commits, hackathon-born, shipped real
+
+`TypeScript` `Next.js` `React` `Tailwind CSS`
+
+---
+
+### 🐦 [Twitter Bot Detector](https://github.com/utkarshsahil04/Twitter_bot_detection)
+> Behavioral classification — detecting non-human patterns in human data
+
+`Python` `ML Classification` `Behavioral Analysis`
 
 ---
 
@@ -72,101 +159,6 @@ That's the problem I'm solving.
 
 ---
 
-## 🎮 What Game AI Engineering Actually Means
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                      NPC COGNITIVE STACK                        │
-├──────────────┬──────────────┬───────────────┬───────────────────┤
-│  PERCEPTION  │    MEMORY    │   DECISION    │     ACTION        │
-│              │              │               │                   │
-│ Raycasting   │ Short-term   │ Behavior Trees│ Animation FSM     │
-│ Sensor grids │ Episodic mem │ GOAP Planning │ Pathfinding       │
-│ Vision cones │ World model  │ RL Policies   │ Physics response  │
-│ Audio detect │ Emotion state│ LLM Dialogue  │ Social signals    │
-└──────────────┴──────────────┴───────────────┴───────────────────┘
-```
-
-Every ML algorithm I learn, every dataset I publish, every hackathon I compete in — it's fuel for this stack.
-
----
-
-## 🛠️ Tech Arsenal
-
-### AI / ML Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
-### Game AI Stack (Building)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
-
-### Other
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🚀 Projects
-
-### 🤖 [Machine Learning · CampusX Journey](https://github.com/utkarshsahil04/Machine_learning_campusX_code)
-> The mathematical bedrock for agents that actually learn
-
-Every major ML algorithm implemented by hand — not copy-pasted, not skimmed. This repo is the foundation of every intelligent system I'll ever build.
-
-`Regression` `Trees` `SVM` `Clustering` `PCA` `Ensembles`
-**Progress: Lecture 115 / 134** `█████████████████░░░` 86%
-
----
-
-### 🔒 [Threat Extractor](https://github.com/utkarshsahil04/Threat-extractor)
-> Agentic AI — the same perceive → classify → act loop as an NPC brain
-
-Parses security logs, identifies IOC patterns, outputs structured JSON threat reports. Built on research that won at both IBM ICE Days. The cognitive architecture here mirrors what a game AI agent does every frame.
-
-`Python` `NLP` `Agentic AI` `Cybersecurity` `JSON`
-
----
-
-### ⚡ [FlagBolt](https://github.com/utkarshsahil04/FlagBolt)
-> TypeScript/Next.js — 41 commits, hackathon-born, shipped real
-
-`TypeScript` `Next.js` `React` `Tailwind CSS`
-
----
-
-### 🍕 [Food Label Reader](https://github.com/utkarshsahil04/Food-label-reader)
-> CV perception pipeline — capture → detect → classify → alert
-
-The same pipeline structure a game NPC uses to process its sensory environment.
-
-`Python` `OpenCV` `Computer Vision` `QR Detection`
-
----
-
-### 🐦 [Twitter Bot Detector](https://github.com/utkarshsahil04/Twitter_bot_detection)
-> Behavioral classification — detecting non-human patterns in human data
-
-The flip side of the NPC problem: detect fake intelligence here, create real-seeming intelligence there.
-
-`Python` `ML Classification` `Behavioral Analysis`
-
----
-
-## 🌍 Open Source · Espotz
-
-Contributing to **[espotz.live](https://github.com/eSpotz-live)** — a live esports tournament platform. Real codebase, real users, real PRs. Where gaming culture meets real engineering.
-
----
-
 ## 📚 ML Algorithms Implemented (CampusX 100 Days)
 
 | Category | Algorithms |
@@ -178,20 +170,18 @@ Contributing to **[espotz.live](https://github.com/eSpotz-live)** — a live esp
 | **Unsupervised** | K-Means, Hierarchical, DBSCAN |
 | **Dimensionality** | PCA, LDA |
 | **Ensemble** | Bagging, Boosting, Stacking |
-| **Next** | Neural Networks → the bridge to deep RL for Game AI |
+| **Next** | Neural Networks |
 
 ---
 
-## 🗺️ Road to Game AI Engineer
+## 🗺️ Learning Roadmap
 
 ```
-2025 ████████████████████  ML Fundamentals (115/134)    ✅
+2025 ████████████████████  ML Fundamentals (115/134)    🔄
 2025 ████████████░░░░░░░░  Computer Vision (YOLOv8)     ✅
 2026 ░░░░████████░░░░░░░░  Deep Learning + NNs           🔄 Starting
-2026 ░░░░░░░░████████░░░░  Reinforcement Learning         ⏳ OpenAI Gym → Unity ML-Agents
-2026 ░░░░░░░░░░░░████████  Behavior Trees + GOAP          ⏳ NPC Decision Layer
-2027 ░░░░░░░░░░░░░░░░████  LLM-Powered NPC Dialogue       ⏳ The voice of the NPC
-2027 ░░░░░░░░░░░░░░░░░░░█  Ship a Game AI System          🎯 The goal
+2026 ░░░░░░░░████████░░░░  Systems at Scale               ⏳ DevOps, distributed systems
+2027 ░░░░░░░░░░░░████████  Advanced ML / MLOps            ⏳ Model deployment, pipelines at scale
 ```
 
 ---
@@ -205,9 +195,6 @@ Contributing to **[espotz.live](https://github.com/eSpotz-live)** — a live esp
 ---
 
 <div align="center">
-
-*"The NPCs in GTA 6 don't follow scripts. They follow policies trained from millions of interactions.*
-*That's not magic. That's reinforcement learning. And I'm learning it."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=utkarshsahil04&color=00ff88&style=flat-square)
 
