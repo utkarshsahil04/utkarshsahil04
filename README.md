@@ -34,6 +34,7 @@ That's the problem I'm solving.
 - 🏫 **IIIT Delhi Fork-It** — Hackathon Participant
 - 🏁 **Hack o'Clock Grand Finalist** — IILM University
 - 🇮🇳 **India Innovates 2026** — Bharat Mandapam, New Delhi · DDU College (University of Delhi)
+- 🚀 **Smart India Hackathon (SIH) 2026** — Selected, Top 50/400 college teams · IILM University · Project: ArtistGali
 - 📊 **Kaggle** — 2 Datasets published · 1 went **#3 Trending** (26 upvotes, worldwide contributors) 
 - 🏆**Kaggle Competition** - Ranked **1371 / 4317** in competition
 - 🎮 **Open Source Contributor** @ [eSpotz-live](https://github.com/eSpotz-live) — Real esports platform
@@ -51,6 +52,7 @@ That's the problem I'm solving.
 | 🍴 Fork-It | IIIT Delhi | Participant | Open Source / Dev |
 | 🏁 Hack o'Clock | IILM University | **Grand Finalist** | General Track |
 | 🇮🇳 India Innovates 2026 | Bharat Mandapam, New Delhi | Participation | Innovation / Tech |
+| 🚀 Smart India Hackathon 2026 | IILM University | **Top 50/400 Selected** | ArtistGali — Voice AI Marketplace |
 
 > *Two IITs/IIITs. Two IBM stages. Two consecutive years, escalating from 3rd to 1st.*
 
@@ -121,7 +123,7 @@ Every ML algorithm I learn, every dataset I publish, every hackathon I compete i
 Every major ML algorithm implemented by hand — not copy-pasted, not skimmed. This repo is the foundation of every intelligent system I'll ever build.
 
 `Regression` `Trees` `SVM` `Clustering` `PCA` `Ensembles`
-**Progress: Lecture 92 / 100** `██████████████████░░` 92%
+**Progress: Lecture 115 / 134** `█████████████████░░░` 86%
 
 ---
 
@@ -183,7 +185,7 @@ Contributing to **[espotz.live](https://github.com/eSpotz-live)** — a live esp
 ## 🗺️ Road to Game AI Engineer
 
 ```
-2025 ████████████████████  ML Fundamentals (92/100)     ✅
+2025 ████████████████████  ML Fundamentals (115/134)    ✅
 2025 ████████████░░░░░░░░  Computer Vision (YOLOv8)     ✅
 2026 ░░░░████████░░░░░░░░  Deep Learning + NNs           🔄 Starting
 2026 ░░░░░░░░████████░░░░  Reinforcement Learning         ⏳ OpenAI Gym → Unity ML-Agents
